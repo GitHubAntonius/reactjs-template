@@ -1,0 +1,23 @@
+* {
+  text-decoration: none;
+  margin: 0rem;
+  padding: 0rem;
+}
+
+body {
+  margin: 0rem;
+  padding: 0rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper {
+  width: 100%;
+  margin: auto;
+  position: relative;
+}
+
+@media screen and (max-width: 100%) {
+  .wrapper {
+    width: 90%;
+  }
+}

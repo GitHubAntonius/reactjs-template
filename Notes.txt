@@ -1,0 +1,9 @@
+NOTES :
+
+1. Instal NVM : curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+2. Update NVM : nvm install-latest-npm
+3. Install NodeJS : nvm install node
+4. Update NPM : npm install npm@latest -g
+5. Create Vite : npm create vite@latest
+
+- npm install : untuk menginstall semua library yang diperlukan
